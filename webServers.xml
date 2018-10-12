@@ -4,6 +4,14 @@
       <webServer id="dea1ae9a-4515-460f-b778-dd4f43c6a867" name="curso20" url="http://localhost">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="e55db659-5fae-43ae-a6a9-8e2fe5e4dbe1" name="drish" url="http://efacis.com">
+        <fileTransfer host="efacis.com" port="21">
+          <advancedOptions>
+            <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
