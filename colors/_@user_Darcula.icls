@@ -3,11 +3,11 @@
     <property name="created">2018-12-05T12:33:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-12-05T12:57:34</property>
+    <property name="modified">2018-12-05T13:10:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
   <colors>
-    <option name="CARET_ROW_COLOR" value="26cb44" />
+    <option name="CARET_ROW_COLOR" value="55666b" />
     <option name="FILESTATUS_ADDED" value="8f9d6a" />
     <option name="FILESTATUS_COPIED" value="8f9d6a" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -43,7 +43,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="a9b7c6" />
-        <option name="BACKGROUND" value="323232" />
+        <option name="BACKGROUND" value="90913" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
