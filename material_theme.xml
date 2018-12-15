@@ -1,6 +1,7 @@
 <application>
   <component name="MaterialThemeConfig">
     <option name="version" value="2.9.6.4" />
+    <option name="selectedTheme" value="DARKER" />
     <option name="highlightColor" value="26cb44" />
     <option name="highlightColorEnabled" value="true" />
     <option name="isContrastMode" value="true" />
