@@ -14,6 +14,10 @@
           <option name="url" value="https://gitea.icts.kuleuven.be/u0122245/MasterProef.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/puikinsh/Adminator-admin-dashboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php7\xampp\htdocs" />
