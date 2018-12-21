@@ -4,7 +4,7 @@
     <property name="created">2018-12-15T17:04:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2018-12-15T17:07:29</property>
+    <property name="modified">2018-12-21T14:19:20</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,7 +13,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Menlo" />
+    <option name="EDITOR_FONT_NAME" value="Monospaced" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -47,7 +47,7 @@
     <option name="FILESTATUS_addedOutside" value="c3e88d" />
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="GUTTER_BACKGROUND" value="212121" />
-    <option name="INDENT_GUIDE" value="424242" />
+    <option name="INDENT_GUIDE" value="213657" />
     <option name="INFORMATION_HINT" value="212121" />
     <option name="LINE_NUMBERS_COLOR" value="424242" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
@@ -64,7 +64,7 @@
     <option name="SELECTION_BACKGROUND" value="353535" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
     <option name="SOFT_WRAP_SIGN_COLOR" value="4f6269" />
-    <option name="TEARLINE_COLOR" value="303030" />
+    <option name="TEARLINE_COLOR" value="6c777c" />
     <option name="TOOLTIP" value="323232" />
     <option name="VCS_ANNOTATIONS_COLOR_1" value="212121" />
     <option name="VCS_ANNOTATIONS_COLOR_2" value="424242" />
