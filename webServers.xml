@@ -20,6 +20,9 @@
           <option name="port" value="21" />
         </fileTransfer>
       </webServer>
+      <webServer id="643a9df5-5d4e-45bd-ba3b-44cf8b0ade25" name="def" url="http://127.0.0.1:8000/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
