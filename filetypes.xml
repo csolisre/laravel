@@ -2,6 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping ext="engine" type="PHP" />
+      <mapping ext="test" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="theme" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
