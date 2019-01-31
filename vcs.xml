@@ -26,6 +26,10 @@
           <option name="url" value="https://scm.kuleuven.be/git/fii0054.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://scm.kuleuven.be/projects/fii0054" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php7\xampp\htdocs" />
