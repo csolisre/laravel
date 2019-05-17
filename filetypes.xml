@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="info" type="Ini" />
+      <mapping pattern="ex01" type="JavaScript" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
