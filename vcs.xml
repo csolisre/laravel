@@ -38,6 +38,14 @@
           <option name="url" value="http://gitea.icts.kuleuven.be" />
           <option name="userName" value="u0122245" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://scm.icts.kuleuven.be/icts/git/jobstudentencontract.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://scm.icts.kuleuven.be" />
+          <option name="userName" value="u0122245@kuleuven.be" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php5\xampp\htdocs" />
