@@ -46,6 +46,10 @@
           <option name="url" value="http://scm.icts.kuleuven.be" />
           <option name="userName" value="u0122245@kuleuven.be" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitea.icts.kuleuven.be/fii/ip1.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php5\xampp\htdocs" />
