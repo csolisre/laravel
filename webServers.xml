@@ -23,6 +23,14 @@
       <webServer id="643a9df5-5d4e-45bd-ba3b-44cf8b0ade25" name="def" url="http://127.0.0.1:8000/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="3b6bb553-63d1-4c47-bf00-cde8fc4bc0c2" name="jef" url="http://jefneve.com">
+        <fileTransfer host="jefneve.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
