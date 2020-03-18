@@ -3,6 +3,7 @@
     <option name="COLOR_BLINDNESS" value="deuteranopia" />
     <option name="MAX_LOOKUP_WIDTH2" value="862" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
+    <option name="SHOW_NAVIGATION_BAR" value="false" />
     <option name="SHOW_STATUS_BAR" value="false" />
   </component>
 </application>
