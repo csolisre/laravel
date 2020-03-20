@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="info" type="Ini" />
       <mapping pattern="ex01" type="JavaScript" />
+      <mapping pattern=".htaccess_old" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
       <mapping ext="profile" type="PHP" />
