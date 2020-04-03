@@ -39,6 +39,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="91689a8f-945f-427d-8498-c6b8743b0383" name="luci-ftps" url="https://www.kuleuven.be/luci">
+        <fileTransfer host="lamp-shell.icts.kuleuven.be" port="22" privateKey="C:\Users\u0122245\.ssh\carlos-solis" rootFolder="/www/virtualhosts/www.kuleuven.be/apps/orientering-n" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
