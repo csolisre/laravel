@@ -47,6 +47,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="3261903c-14ed-4c6d-ac71-baf3bf11a69d" name="agenda-q" url="https://icts.kuleuven.be/apps/agenda">
+        <fileTransfer host="lamp-shell.icts.kuleuven.be" port="22" privateKey="C:\Users\u0122245\.ssh\carlos-solis" rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
