@@ -8,6 +8,7 @@
     <option name="isHighContrast" value="true" />
     <option name="isWizardShown" value="true" />
     <option name="pristineConfig" value="false" />
+    <option name="statusBarTheme" value="false" />
     <option name="useColoredDirectories" value="false" />
     <option name="tabsHeight" value="42" />
     <option name="accentColor" value="ff9800" />
