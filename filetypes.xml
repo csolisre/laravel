@@ -4,18 +4,18 @@
       <mapping ext="info" type="Ini" />
       <mapping pattern="ex01" type="JavaScript" />
       <mapping pattern=".htaccess_old" type="PHP" />
+      <mapping ext="profile" type="PHP" />
+      <mapping ext="install" type="PHP" />
       <mapping ext="engine" type="PHP" />
       <mapping ext="test" type="PHP" />
-      <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
-      <mapping ext="install" type="PHP" />
-      <mapping pattern=".htaccesss" type="PLAIN_TEXT" />
       <mapping pattern="config2" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
+      <mapping pattern=".htaccesss" type="PLAIN_TEXT" />
       <mapping pattern=".settings.php.swp" type="PLAIN_TEXT" />
-      <mapping ext="del" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
+      <mapping ext="del" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
