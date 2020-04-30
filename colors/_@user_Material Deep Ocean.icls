@@ -4,7 +4,7 @@
     <property name="created">2020-04-30T11:01:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-04-30T14:09:01</property>
+    <property name="modified">2020-04-30T14:32:09</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -55,7 +55,7 @@
     <option name="GUTTER_BACKGROUND" value="f111a" />
     <option name="INDENT_GUIDE" value="3b3f51" />
     <option name="INFORMATION_HINT" value="f111a" />
-    <option name="LINE_NUMBERS_COLOR" value="475f63" />
+    <option name="LINE_NUMBERS_COLOR" value="c3cee3" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="525975" />
     <option name="METHOD_SEPARATORS_COLOR" value="3b3f51" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
