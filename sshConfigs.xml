@@ -4,7 +4,7 @@
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="a961ff2d-2f7f-48f6-bda1-f506f81cef70" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiitpoep-server" nameFormat="CUSTOM" username="fiitoep" />
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="5589c37c-5a7d-4e6c-9422-61ae265f4cab" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="luci-ftps" nameFormat="CUSTOM" username="fiiluci" />
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-q" nameFormat="CUSTOM" username="fiiagendaq" />
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="298bc632-3b6a-473e-ab84-c9477023e35e" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-q" nameFormat="CUSTOM" username="fiiagendaq" />
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="61cb4b2e-eb28-449d-9df2-13665991c657" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-q" nameFormat="CUSTOM" username="fiiagendaq" />
     </configs>
   </component>
 </application>
