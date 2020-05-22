@@ -2,14 +2,13 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="dea1ae9a-4515-460f-b778-dd4f43c6a867" name="curso20" url="http://localhost">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="e55db659-5fae-43ae-a6a9-8e2fe5e4dbe1" name="drish" url="http://efacis.eu">
         <fileTransfer host="efacis.eu" port="21">
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="0c7ee862-b41a-422a-a8a2-45d9d29ecd4b" name="akemati" url="http://akemati.com">
@@ -17,42 +16,37 @@
           <advancedOptions>
             <advancedOptions compatibilityMode="true" dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="643a9df5-5d4e-45bd-ba3b-44cf8b0ade25" name="def" url="http://127.0.0.1:8000/">
-        <fileTransfer port="0" accessType="LOCAL" />
+        <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
       <webServer id="3b6bb553-63d1-4c47-bf00-cde8fc4bc0c2" name="jef" url="http://jefneve.com">
         <fileTransfer host="jefneve.com" port="21">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="21" />
         </fileTransfer>
       </webServer>
       <webServer id="0fd99620-627f-44ea-b745-b3d2238b983c" name="fiitpoep-server" url="https://q.icts.kuleuven.be/fiitoep/crsr">
-        <fileTransfer host="lamp-shell.icts.kuleuven.be" port="22" privateKey="C:\Users\u0122245\.ssh\carlos-solis" rootFolder="/www/virtualhosts/icts.kuleuven.be-fiitoep/html/fiitoep/crsr" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="a961ff2d-2f7f-48f6-bda1-f506f81cef70" sshConfig="fiitpoep-server" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="91689a8f-945f-427d-8498-c6b8743b0383" name="luci-ftps" url="https://www.kuleuven.be/luci">
-        <fileTransfer host="lamp-shell.icts.kuleuven.be" port="22" privateKey="C:\Users\u0122245\.ssh\carlos-solis" rootFolder="/www/virtualhosts/www.kuleuven.be/apps/orientering-n" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/www/virtualhosts/www.kuleuven.be/apps/orientering-n" accessType="SFTP" sshConfigId="db26f847-d29b-4884-be07-48b1f74ad863" sshConfig="luci-ftps">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
       <webServer id="3261903c-14ed-4c6d-ac71-baf3bf11a69d" name="agenda-q" url="https://icts.kuleuven.be/apps/agenda">
-        <fileTransfer host="lamp-shell.icts.kuleuven.be" port="22" privateKey="C:\Users\u0122245\.ssh\carlos-solis" rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" keyPair="true">
+        <fileTransfer rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" sshConfig="agenda-q" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
-          <option name="port" value="22" />
         </fileTransfer>
       </webServer>
     </option>

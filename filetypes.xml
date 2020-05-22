@@ -9,7 +9,9 @@
       <mapping ext="test" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping ext="install" type="PHP" />
+      <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern=".htaccesss" type="PLAIN_TEXT" />
+      <mapping pattern="local_authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="config2" type="PLAIN_TEXT" />
       <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern=".settings.php.swp" type="PLAIN_TEXT" />
