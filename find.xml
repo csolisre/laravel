@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\storage\app\0124_loa Paypal.pdf'" />
+    <option name="defaultScopeName" value="File '...\storage\app\0124_loa Paypal.pdf'" />
     <option name="localCaseSensitive" value="true" />
     <option name="localRegularExpressions" value="true" />
     <option name="regularExpressions" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\storage\app\0124_loa Paypal.pdf'" />
   </component>
 </application>
