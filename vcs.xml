@@ -94,6 +94,10 @@
           <option name="url" value="https://scm.icts.kuleuven.be/icts/git/posterservice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitea.icts.kuleuven.be/fii/jobsite.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php7.3\xampp\htdocs" />
