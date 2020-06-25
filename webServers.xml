@@ -36,14 +36,14 @@
         </fileTransfer>
       </webServer>
       <webServer id="91689a8f-945f-427d-8498-c6b8743b0383" name="luci-ftps" url="https://www.kuleuven.be/luci">
-        <fileTransfer rootFolder="/www/virtualhosts/www.kuleuven.be/apps/orientering-n" accessType="SFTP" sshConfigId="db26f847-d29b-4884-be07-48b1f74ad863" sshConfig="luci-ftps">
+        <fileTransfer rootFolder="/www/virtualhosts/www.kuleuven.be/apps/orientering-n" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="5589c37c-5a7d-4e6c-9422-61ae265f4cab" sshConfig="luci-ftps" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
       <webServer id="3261903c-14ed-4c6d-ac71-baf3bf11a69d" name="agenda-q" url="https://icts.kuleuven.be/apps/agenda">
-        <fileTransfer rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" sshConfig="agenda-q" keyPair="true">
+        <fileTransfer rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="fiiagenda@lamp-shell.icts.kuleuven.be:22 key" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
