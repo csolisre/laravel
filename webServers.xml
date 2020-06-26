@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="4ca53795-2280-465e-a9e2-407282bdf08f" name="agenda-p" url="https://agenda.kuleuven.be/">
+        <fileTransfer rootFolder="/www/virtualhosts/agenda.kuleuven.be/html" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="agenda-p" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="dea1ae9a-4515-460f-b778-dd4f43c6a867" name="curso20" url="http://localhost">
         <fileTransfer accessType="LOCAL" port="0" />
       </webServer>
@@ -43,7 +50,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="3261903c-14ed-4c6d-ac71-baf3bf11a69d" name="agenda-q" url="https://icts.kuleuven.be/apps/agenda">
-        <fileTransfer rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="fiiagenda@lamp-shell.icts.kuleuven.be:22 key" keyPair="true">
+        <fileTransfer rootFolder="/www/virtualhosts/icts.kuleuven.be-agenda/html/apps/agenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" sshConfig="agenda-q" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" muteSftpMessages="true" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
