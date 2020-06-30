@@ -35,8 +35,8 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
-      <webServer id="0fd99620-627f-44ea-b745-b3d2238b983c" name="fiitpoep-server" url="https://q.icts.kuleuven.be/fiitoep/crsr">
-        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="a961ff2d-2f7f-48f6-bda1-f506f81cef70" sshConfig="fiitpoep-server" keyPair="true">
+      <webServer id="0fd99620-627f-44ea-b745-b3d2238b983c" name="fiitoep-server" url="https://q.icts.kuleuven.be/fiitoep/crsr">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="a961ff2d-2f7f-48f6-bda1-f506f81cef70" sshConfig="fiitoep-server" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
