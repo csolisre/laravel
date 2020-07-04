@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="front" type="HTML" />
       <mapping ext="info" type="Ini" />
       <mapping pattern="ex01" type="JavaScript" />
       <mapping pattern=".htaccess_old" type="PHP" />
