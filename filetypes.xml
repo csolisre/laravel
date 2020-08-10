@@ -19,6 +19,7 @@
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping ext="del" type="PLAIN_TEXT" />
+      <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
