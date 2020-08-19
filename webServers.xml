@@ -57,7 +57,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="23422a58-0109-46d1-a121-ee780b3119db" name="oa">
-        <fileTransfer accessType="SFTP" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
