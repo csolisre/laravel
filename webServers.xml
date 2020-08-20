@@ -1,6 +1,13 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="178670dd-927b-4ae4-814d-29c194890259" name="studentjobshop">
+        <fileTransfer rootFolder="/www/virtualhosts/www.kuleuven.be/html/studentenvoorzieningen/studentcareercenter" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8be2ff8b-0f78-44f1-802f-45365a1f3a49" sshConfig="fiistudjobshop@lamp-shell" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="4ca53795-2280-465e-a9e2-407282bdf08f" name="agenda-p" url="https://agenda.kuleuven.be/">
         <fileTransfer rootFolder="/www/virtualhosts/agenda.kuleuven.be/html" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="agenda-p" keyPair="true">
           <advancedOptions>
@@ -57,7 +64,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="23422a58-0109-46d1-a121-ee780b3119db" name="oa">
-        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
