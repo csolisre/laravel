@@ -70,6 +70,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="ab365c2d-066e-4862-9ea6-224d27ec8055" name="jobsite">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="813e1073-e0e9-4fca-9e81-38c9983549e6" sshConfig="jobsite" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>

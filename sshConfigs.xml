@@ -7,6 +7,7 @@
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="8ee5d506-5269-4349-b973-44647ba55007" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-p" nameFormat="CUSTOM" username="fiiagenda" />
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="a9658ed4-7edb-4fe5-a1da-8033daa001e1" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="RMT" nameFormat="CUSTOM" username="fiiresmat" />
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="8be2ff8b-0f78-44f1-802f-45365a1f3a49" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiistudjobshop@lamp-shell" nameFormat="CUSTOM" username="fiistudjobshop" />
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="813e1073-e0e9-4fca-9e81-38c9983549e6" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="jobsite" nameFormat="CUSTOM" username="fiijobsite" />
     </configs>
   </component>
 </application>
