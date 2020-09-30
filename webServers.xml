@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="5be1d293-7d35-4f47-91a5-1594b478f202" name="onderwijs" url="http://127.0.0.1:8000/">
+      <webServer id="5be1d293-7d35-4f47-91a5-1594b478f202" name="onderwijs" url="">
         <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true" />
       </webServer>
       <webServer id="df86eee0-5666-4f10-a270-77cc40a26981" name="RMT">
