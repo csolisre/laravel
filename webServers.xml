@@ -1,6 +1,9 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="5be1d293-7d35-4f47-91a5-1594b478f202" name="onderwijs" url="">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true" />
+      </webServer>
       <webServer id="df86eee0-5666-4f10-a270-77cc40a26981" name="RMT">
         <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="a9658ed4-7edb-4fe5-a1da-8033daa001e1" sshConfig="RMT" keyPair="true">
           <advancedOptions>
@@ -71,7 +74,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="23422a58-0109-46d1-a121-ee780b3119db" name="oa">
-        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="266d2b42-3932-456e-8ad4-53b557cc08db" sshConfig="aanbod" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
