@@ -19,7 +19,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="4ca53795-2280-465e-a9e2-407282bdf08f" name="agenda-p" url="">
-        <fileTransfer rootFolder="/www/homes/fiiagenda" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="agenda-p" keyPair="true">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="8ee5d506-5269-4349-b973-44647ba55007" sshConfig="agenda-p" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
