@@ -1,7 +1,7 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a961ff2d-2f7f-48f6-bda1-f506f81cef70" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiitoep-server" nameFormat="CUSTOM" username="fiitoep">
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a961ff2d-2f7f-48f6-bda1-f506f81cef70" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiitoep-server" nameFormat="CUSTOM" username="fiiproclamatie">
         <option name="customName" value="fiitoep-server" />
       </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="5589c37c-5a7d-4e6c-9422-61ae265f4cab" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="luci-ftps" nameFormat="CUSTOM" username="fiiluci">
