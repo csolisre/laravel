@@ -130,6 +130,14 @@
           <option name="url" value="git@gitea.icts.kuleuven.be:fii/wiwo3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://csolisre@bitbucket.org/kullaw/jura.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="csolisre" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php7.3\xampp\htdocs" />
