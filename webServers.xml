@@ -1,8 +1,22 @@
 <application>
   <component name="WebServers">
     <option name="servers">
+      <webServer id="337812c4-9458-4bba-a7c8-5e80943ec518" name="ir" url="http://aistriu.eu">
+        <fileTransfer host="aistriu.eu" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="94dff631-b247-400b-bed9-32fbc717f780" name="Masterproef">
+        <fileTransfer rootFolder="/www/virtualhosts" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="2da6eebe-142e-44d8-8823-971af9a43648" sshConfig="fiimasterpr" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
       <webServer id="a532faf1-e889-4be3-bcd9-21b4189a9102" name="ip2">
-        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="13265537-9e9e-41cb-b371-e23dafffb3a8" sshConfig="ip2" keyPair="true">
+        <fileTransfer rootFolder="/www" accessType="SFTP" sshConfigId="13265537-9e9e-41cb-b371-e23dafffb3a8" sshConfig="ip2">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
