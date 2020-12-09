@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="17">
+  <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="front" type="HTML" />
       <mapping ext="info" type="Ini" />
@@ -11,26 +11,27 @@
       <mapping ext="profile" type="PHP" />
       <mapping ext="theme" type="PHP" />
       <mapping pattern="bla" type="PLAIN_TEXT" />
+      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern=".dockerenv" type="PLAIN_TEXT" />
       <mapping pattern=".nojekyll" type="PLAIN_TEXT" />
       <mapping pattern="config2" type="PLAIN_TEXT" />
       <mapping pattern=".htaccesss" type="PLAIN_TEXT" />
-      <mapping pattern=".settings.php.swp" type="PLAIN_TEXT" />
-      <mapping pattern="local_authorized_keys" type="PLAIN_TEXT" />
-      <mapping pattern="php" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern=".settings.php.swp" type="PLAIN_TEXT" />
+      <mapping pattern="local_authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="quality" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
-      <mapping ext="eot" type="PLAIN_TEXT" />
-      <mapping ext="del" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="test-csr" type="PLAIN_TEXT" />
+      <mapping ext="eot" type="PLAIN_TEXT" />
+      <mapping ext="del" type="PLAIN_TEXT" />
       <mapping pattern="index" type="Vue.js" />
+      <removed_mapping ext="chm" approved="true" type="Native" />
     </extensionMap>
   </component>
 </application>
