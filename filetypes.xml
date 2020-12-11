@@ -28,6 +28,7 @@
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
       <mapping ext="test-csr" type="PLAIN_TEXT" />
+      <mapping ext="htaccess" type="PLAIN_TEXT" />
       <mapping ext="eot" type="PLAIN_TEXT" />
       <mapping ext="del" type="PLAIN_TEXT" />
       <mapping pattern="index" type="Vue.js" />
