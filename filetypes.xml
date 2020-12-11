@@ -24,6 +24,7 @@
       <mapping ext="mysql" type="PLAIN_TEXT" />
       <mapping ext="quality" type="PLAIN_TEXT" />
       <mapping ext="production" type="PLAIN_TEXT" />
+      <mapping ext="txtold" type="PLAIN_TEXT" />
       <mapping ext="sqlite" type="PLAIN_TEXT" />
       <mapping ext="pub" type="PLAIN_TEXT" />
       <mapping ext="1" type="PLAIN_TEXT" />
