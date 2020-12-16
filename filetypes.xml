@@ -35,6 +35,9 @@
       <mapping pattern="index" type="Vue.js" />
       <removed_mapping ext="chm" approved="true" type="Native" />
       <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
+      <removed_mapping ext="log" approved="true" type="ANSI Aware" />
+      <removed_mapping ext="tar" approved="true" type="7ZIP" />
+      <removed_mapping ext="tgz" approved="true" type="7ZIP" />
     </extensionMap>
   </component>
 </application>
