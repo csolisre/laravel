@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="93fe8475-8c31-4cc3-867d-0315f5f86e47" name="verderstuderen" url="http://www.verderstuderen.be/">
-        <fileTransfer rootFolder="/www" accessType="SFTP" sshConfigId="bcf4cd66-23de-4a05-95b9-ee081d10d134" sshConfig="verderstuderen">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="bcf4cd66-23de-4a05-95b9-ee081d10d134" sshConfig="verderstuderen" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
