@@ -1,34 +1,36 @@
 <application>
   <component name="SshConfigs">
     <configs>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a961ff2d-2f7f-48f6-bda1-f506f81cef70" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiitoep-server" nameFormat="CUSTOM" username="fiitoep">
-        <option name="customName" value="fiitoep-server" />
-      </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="5589c37c-5a7d-4e6c-9422-61ae265f4cab" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="luci-ftps" nameFormat="CUSTOM" username="fiiluci">
-        <option name="customName" value="luci-ftps" />
-      </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-q" nameFormat="CUSTOM" username="fiiagendaq">
-        <option name="customName" value="agenda-q" />
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="266d2b42-3932-456e-8ad4-53b557cc08db" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="aanbod" nameFormat="CUSTOM" username="aanbod">
+        <option name="customName" value="aanbod" />
       </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="8ee5d506-5269-4349-b973-44647ba55007" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-p" nameFormat="CUSTOM" username="fiiagenda">
         <option name="customName" value="agenda-p" />
       </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a9658ed4-7edb-4fe5-a1da-8033daa001e1" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="RMT" nameFormat="CUSTOM" username="fiiresmat">
-        <option name="customName" value="RMT" />
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="8a89ca95-2bf2-4317-b6b7-1cd31622aac4" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="agenda-q" nameFormat="CUSTOM" username="fiiagendaq">
+        <option name="customName" value="agenda-q" />
       </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="8be2ff8b-0f78-44f1-802f-45365a1f3a49" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiistudjobshop@lamp-shell" nameFormat="CUSTOM" username="fiistudjobshop">
         <option name="customName" value="fiistudjobshop@lamp-shell" />
       </sshConfig>
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a961ff2d-2f7f-48f6-bda1-f506f81cef70" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiitoep-server" nameFormat="CUSTOM" username="fiitoep">
+        <option name="customName" value="fiitoep-server" />
+      </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="813e1073-e0e9-4fca-9e81-38c9983549e6" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="jobsite" nameFormat="CUSTOM" username="fiijobsite">
         <option name="customName" value="jobsite" />
       </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="266d2b42-3932-456e-8ad4-53b557cc08db" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="aanbod" nameFormat="CUSTOM" username="aanbod">
-        <option name="customName" value="aanbod" />
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="5589c37c-5a7d-4e6c-9422-61ae265f4cab" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="luci-ftps" nameFormat="CUSTOM" username="fiiluci">
+        <option name="customName" value="luci-ftps" />
+      </sshConfig>
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="2da6eebe-142e-44d8-8823-971af9a43648" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="masterproef" nameFormat="CUSTOM" username="masterpr">
+        <option name="customName" value="masterproef" />
+      </sshConfig>
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="a9658ed4-7edb-4fe5-a1da-8033daa001e1" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="RMT" nameFormat="CUSTOM" username="fiiresmat">
+        <option name="customName" value="RMT" />
       </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="58257655-fb7e-483c-a491-06b4fe1fabd8" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="wiwo" nameFormat="CUSTOM" username="fiiwiwo">
         <option name="customName" value="wiwo" />
       </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="2da6eebe-142e-44d8-8823-971af9a43648" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" nameFormat="DESCRIPTIVE" username="masterpr" />
     </configs>
   </component>
 </application>
