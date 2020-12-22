@@ -3,7 +3,7 @@
     <property name="created">2018-12-05T12:33:21</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-12-22T15:20:30</property>
+    <property name="modified">2020-12-22T15:38:28</property>
     <property name="originalScheme">Default</property>
   </metaInfo>
   <colors>
@@ -69,7 +69,7 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
