@@ -4,7 +4,7 @@
     <property name="created">2018-12-15T17:04:10</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.2.5.0.0</property>
-    <property name="modified">2020-12-22T16:10:08</property>
+    <property name="modified">2020-12-22T17:09:50</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -13,7 +13,7 @@
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <font>
-    <option name="EDITOR_FONT_NAME" value="Monospaced" />
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
     <option name="EDITOR_FONT_SIZE" value="12" />
   </font>
   <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
@@ -23,7 +23,7 @@
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
     <option name="ANNOTATIONS_COLOR" value="b0bec5" />
     <option name="CARET_COLOR" value="ffcc00" />
-    <option name="CARET_ROW_COLOR" value="343641" />
+    <option name="CARET_ROW_COLOR" value="202643" />
     <option name="CONSOLE_BACKGROUND_KEY" value="0" />
     <option name="DELETED_LINES_COLOR" value="f77669" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1c1c1c" />
@@ -50,8 +50,8 @@
     <option name="GUTTER_BACKGROUND" value="0" />
     <option name="INDENT_GUIDE" value="213657" />
     <option name="INFORMATION_HINT" value="212121" />
-    <option name="LINE_NUMBERS_COLOR" value="424242" />
-    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
+    <option name="LINE_NUMBERS_COLOR" value="fff9f9" />
+    <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="91ea51" />
     <option name="METHOD_SEPARATORS_COLOR" value="424242" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6e" />
     <option name="MT_IGNORE.PROJECT_VIEW.IGNORED" value="ab7967" />
@@ -59,7 +59,7 @@
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="616161" />
     <option name="QUESTION_HINT" value="212121" />
-    <option name="READONLY_BACKGROUND" value="ffcc00" />
+    <option name="READONLY_BACKGROUND" value="243737" />
     <option name="RIGHT_MARGIN_COLOR" value="303030" />
     <option name="SELECTED_INDENT_GUIDE" value="676767" />
     <option name="SELECTED_TEARLINE_COLOR" value="616161" />
