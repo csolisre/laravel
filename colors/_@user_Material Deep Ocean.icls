@@ -4,7 +4,7 @@
     <property name="created">2020-04-30T11:01:05</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.1.0.0</property>
-    <property name="modified">2020-12-27T17:06:24</property>
+    <property name="modified">2020-12-27T17:22:14</property>
     <property name="originalScheme">Material Deep Ocean</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -1138,7 +1138,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_1_DERIVED">
       <value>
-        <option name="BACKGROUND" value="157ed9" />
+        <option name="BACKGROUND" value="72d4e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_2">
@@ -1148,7 +1148,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_2_DERIVED">
       <value>
-        <option name="BACKGROUND" value="49cf49" />
+        <option name="BACKGROUND" value="145814" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_3">
@@ -1158,7 +1158,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_3_DERIVED">
       <value>
-        <option name="BACKGROUND" value="5c5cb1" />
+        <option name="BACKGROUND" value="28284e" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_COLOR_4">
@@ -1168,7 +1168,7 @@
     </option>
     <option name="INDENT_RAINBOW_COLOR_4_DERIVED">
       <value>
-        <option name="BACKGROUND" value="d49713" />
+        <option name="BACKGROUND" value="5a4414" />
       </value>
     </option>
     <option name="INDENT_RAINBOW_ERROR">
