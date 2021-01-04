@@ -1,11 +1,11 @@
-<scheme name="_@user_Material Solarized Light" version="142" parent_scheme="Default">
+<scheme name="_@user_Solarized Light (Material)" version="142" parent_scheme="Default">
   <option name="FONT_SCALE" value="1.0" />
   <metaInfo>
-    <property name="created">2020-12-21T19:55:06</property>
+    <property name="created">2021-01-04T15:32:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-04T15:32:34</property>
-    <property name="originalScheme">Material Solarized Light</property>
+    <property name="modified">2021-01-04T15:32:36</property>
+    <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
   <font>
@@ -33,6 +33,15 @@
     <option name="CARET_ROW_COLOR" value="eee8d5" />
     <option name="CONSOLE_BACKGROUND_KEY" value="fdf6e3" />
     <option name="DELETED_LINES_COLOR" value="d30102" />
+    <option name="DIAGRAM_ANNOTATION_EDGE" value="d33682" />
+    <option name="DIAGRAM_DEFAULT_EDGE" value="657b83" />
+    <option name="DIAGRAM_GENERALIZATION_EDGE" value="b58900" />
+    <option name="DIAGRAM_INNER_EDGE" value="859900" />
+    <option name="DIAGRAM_NODE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NODE_HEADER" value="cac5b6" />
+    <option name="DIAGRAM_NOTE_BACKGROUND" value="fdf6e3" />
+    <option name="DIAGRAM_NOTE_BORDER" value="657b83" />
+    <option name="DIAGRAM_REALIZATION_EDGE" value="cb4b16" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="d7d1c1" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="c8c3b5" />
     <option name="DOCUMENTATION_COLOR" value="f4eddb" />
@@ -1530,13 +1539,10 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
-    </option>
     <option name="KOTLIN_LABEL">
-      <value />
+      <value>
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -2919,8 +2925,10 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="99ccbb" />
+        <option name="BACKGROUND" value="eee8d5" />
         <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_COLOR" value="ffcc00" />
+        <option name="EFFECT_TYPE" value="4" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -3468,7 +3476,11 @@
       </value>
     </option>
     <option name="RUNTIME_ERROR">
-      <value />
+      <value>
+        <option name="EFFECT_COLOR" value="dc322f" />
+        <option name="ERROR_STRIPE_COLOR" value="dc322f" />
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
     </option>
     <option name="Rainbow Parens Level 1 (outermost)">
       <value>
