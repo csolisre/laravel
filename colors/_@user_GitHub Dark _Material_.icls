@@ -4,7 +4,7 @@
     <property name="created">2021-01-04T15:32:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-01-04T17:30:10</property>
+    <property name="modified">2021-01-04T17:49:57</property>
     <property name="originalScheme">GitHub Dark (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -796,6 +796,9 @@
         <option name="FOREGROUND" value="9ecbff" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="79b8ff" />
@@ -1053,10 +1056,13 @@
         <option name="FOREGROUND" value="f97583" />
       </value>
     </option>
-    <option name="KOTLIN_LABEL">
+    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
       <value>
-        <option name="FOREGROUND" value="79b8ff" />
+        <option name="FONT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="KOTLIN_LABEL">
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1703,8 +1709,8 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
-        <option name="BACKGROUND" value="1c6569" />
-        <option name="EFFECT_TYPE" value="4" />
+        <option name="BACKGROUND" value="3b514d" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="NOT_TOP_FRAME_ATTRIBUTES">
