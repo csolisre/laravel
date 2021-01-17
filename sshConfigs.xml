@@ -31,6 +31,9 @@
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="58257655-fb7e-483c-a491-06b4fe1fabd8" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="wiwo" nameFormat="CUSTOM" username="fiiwiwo">
         <option name="customName" value="wiwo" />
       </sshConfig>
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="13265537-9e9e-41cb-b371-e23dafffb3a8" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="ip2" nameFormat="CUSTOM" username="fiimasterprstud">
+        <option name="customName" value="ip2" />
+      </sshConfig>
     </configs>
   </component>
 </application>

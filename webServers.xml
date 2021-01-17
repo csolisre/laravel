@@ -23,7 +23,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="a532faf1-e889-4be3-bcd9-21b4189a9102" name="ip2">
-        <fileTransfer rootFolder="/www" accessType="SFTP" sshConfigId="13265537-9e9e-41cb-b371-e23dafffb3a8" sshConfig="ip2">
+        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="13265537-9e9e-41cb-b371-e23dafffb3a8" sshConfig="ip2" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
