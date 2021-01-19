@@ -51,4 +51,10 @@
       <option name="JSP" value="false" />
     </context>
   </template>
+  <template name="@elseif" value="@elseif ($START$)&#10;    $END$" description="Blade @elseif" toReformat="false" toShortenFQNames="true">
+    <variable name="START" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JSP" value="false" />
+    </context>
+  </template>
 </templateSet>
