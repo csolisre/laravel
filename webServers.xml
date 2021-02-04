@@ -122,6 +122,13 @@
           </advancedOptions>
         </fileTransfer>
       </webServer>
+      <webServer id="d381df87-8962-4228-aa1e-688d74845a99" name="openless">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="c4e594bc-afa3-40d8-9f65-212ed3837f42" sshConfig="fiitsforms@lamp-shell.icts.kuleuven.be:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
