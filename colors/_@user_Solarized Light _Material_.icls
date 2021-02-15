@@ -4,7 +4,7 @@
     <property name="created">2021-01-04T15:32:04</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-02-15T12:41:31</property>
+    <property name="modified">2021-02-15T13:54:28</property>
     <property name="originalScheme">Solarized Light (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -295,7 +295,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="" />
+    <option name="COFFEESCRIPT.FUNCTION_NAME" baseAttributes="DEFAULT_FUNCTION_DECLARATION" />
     <option name="COFFEESCRIPT.IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="657b83" />
@@ -1004,9 +1004,9 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="" />
-    <option name="GHERKIN_PYSTRING" baseAttributes="" />
-    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="" />
+    <option name="GHERKIN_OUTLINE_PARAMETER_SUBSTITUTION" baseAttributes="DEFAULT_INSTANCE_FIELD" />
+    <option name="GHERKIN_PYSTRING" baseAttributes="DEFAULT_STRING" />
+    <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="GIT_TOOLBOX.CHANGED_COUNT_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="859900" />
@@ -1495,7 +1495,7 @@
         <option name="FOREGROUND" value="b58900" />
       </value>
     </option>
-    <option name="JS.PARAMETER" baseAttributes="" />
+    <option name="JS.PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="2aa198" />
@@ -4302,7 +4302,7 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value />
     </option>

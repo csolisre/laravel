@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4f0f1e76-95ec-4810-9333-824ac5096537" name="summerSchool">
+      <webServer id="4f0f1e76-95ec-4810-9333-824ac5096537" name="summerSchool" url="">
         <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="2862a6e0-9ba9-48ca-ad45-eb1c78298a40" sshConfig="fiisummerschool" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
