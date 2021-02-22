@@ -4,7 +4,7 @@
     <property name="created">2020-12-27T17:09:08</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-02-22T14:17:09</property>
+    <property name="modified">2021-02-22T15:39:18</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -848,12 +848,12 @@
     <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="" />
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -1211,7 +1211,7 @@
         <option name="FOREGROUND" value="50fa78" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="LINE_FULL_COVERAGE">
       <value>
         <option name="BACKGROUND" value="264b33" />
@@ -2895,7 +2895,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="SASS_COMMENT" baseAttributes="" />
+    <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
     <option name="SASS_IDENTIFIER">
       <value />
     </option>
@@ -3158,14 +3158,14 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff79c6" />
