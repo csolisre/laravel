@@ -22,7 +22,7 @@
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="5589c37c-5a7d-4e6c-9422-61ae265f4cab" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="luci-ftps" nameFormat="CUSTOM" username="fiiluci">
         <option name="customName" value="luci-ftps" />
       </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="2da6eebe-142e-44d8-8823-971af9a43648" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="masterproef" nameFormat="CUSTOM" username="masterpr">
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="2da6eebe-142e-44d8-8823-971af9a43648" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="masterproef" nameFormat="CUSTOM" username="fiimasterpr">
         <option name="customName" value="masterproef" />
       </sshConfig>
       <sshConfig host="lamp-shell.icts.kuleuven.be" id="a9658ed4-7edb-4fe5-a1da-8033daa001e1" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="RMT" nameFormat="CUSTOM" username="fiiresmat">
