@@ -20,6 +20,7 @@
       <mapping pattern=".htaccesss" type="PLAIN_TEXT" />
       <mapping pattern="authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="id_rsa" type="PLAIN_TEXT" />
+      <mapping pattern="._env_Old" type="PLAIN_TEXT" />
       <mapping pattern=".settings.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="local_authorized_keys" type="PLAIN_TEXT" />
       <mapping pattern="CHANGELOG" type="PLAIN_TEXT" />
