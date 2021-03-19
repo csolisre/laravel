@@ -16,7 +16,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="93fe8475-8c31-4cc3-867d-0315f5f86e47" name="verderstuderen" url="http://www.verderstuderen.be/">
-        <fileTransfer rootFolder="/www" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="bcf4cd66-23de-4a05-95b9-ee081d10d134" sshConfig="verderstuderen" keyPair="true">
+        <fileTransfer rootFolder="/www" accessType="SFTP" sshConfigId="bcf4cd66-23de-4a05-95b9-ee081d10d134" sshConfig="verderstuderen">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -124,6 +124,13 @@
       </webServer>
       <webServer id="ab365c2d-066e-4862-9ea6-224d27ec8055" name="jobsite">
         <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="813e1073-e0e9-4fca-9e81-38c9983549e6" sshConfig="jobsite" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="ef4f8dee-1a23-4ae6-958b-119d74b2c350" name="Jobalerts">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="4602d2b8-70fd-4f42-a388-1ee732e9e6e6" sshConfig="jobalerts" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
