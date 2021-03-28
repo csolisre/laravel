@@ -4,7 +4,7 @@
     <property name="created">2020-12-21T19:55:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-03-25T09:42:33</property>
+    <property name="modified">2021-03-28T17:12:11</property>
     <property name="originalScheme">Light Owl (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -448,8 +448,8 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="403f53" />
@@ -3667,7 +3667,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="YAML_ANCHOR" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />
