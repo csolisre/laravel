@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="trace" type="AUTO_DETECTED" />
+      <mapping pattern="cronjobs" type="AUTO_DETECTED" />
+      <mapping pattern="crontest" type="AUTO_DETECTED" />
       <mapping pattern="output" type="AUTO_DETECTED" />
       <mapping pattern="cronjob1" type="AUTO_DETECTED" />
       <mapping pattern="front" type="HTML" />
