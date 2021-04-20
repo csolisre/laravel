@@ -30,7 +30,7 @@
         </fileTransfer>
       </webServer>
       <webServer id="94dff631-b247-400b-bed9-32fbc717f780" name="Masterproef">
-        <fileTransfer rootFolder="/www/virtualhosts" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="2da6eebe-142e-44d8-8823-971af9a43648" sshConfig="masterproef" keyPair="true">
+        <fileTransfer rootFolder="/www/virtualhosts" accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="2da6eebe-142e-44d8-8823-971af9a43648" sshConfig="fiimasterpr" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
