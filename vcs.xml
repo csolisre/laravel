@@ -182,6 +182,10 @@
           <option name="url" value="git@gitea.icts.kuleuven.be:fii/gedocumenteerd.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@gitea.icts.kuleuven.be:fii/pangaea.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Workdir\MyApps\php5.3\xampp\htdocs" />
