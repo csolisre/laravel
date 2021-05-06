@@ -3,7 +3,7 @@
     <property name="created">2020-12-21T19:55:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-05-06T09:51:10</property>
+    <property name="modified">2021-05-06T14:24:42</property>
     <property name="originalScheme">Blackboard</property>
   </metaInfo>
   <colors>
@@ -281,7 +281,7 @@
         <option name="FOREGROUND" value="ff6400" />
       </value>
     </option>
-    <option name="CSS.URL" baseAttributes="" />
+    <option name="CSS.URL" baseAttributes="HTML_ATTRIBUTE_VALUE" />
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="68e868" />
@@ -771,7 +771,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HTML_TAG" baseAttributes="" />
+    <option name="HTML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="HTML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -927,7 +927,7 @@
         <option name="FOREGROUND" value="ff6400" />
       </value>
     </option>
-    <option name="JS.LOCAL_VARIABLE" baseAttributes="" />
+    <option name="JS.LOCAL_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="JS.REGEXP">
       <value>
         <option name="FOREGROUND" value="61ce3c" />
@@ -946,7 +946,7 @@
         <option name="FOREGROUND" value="fbde2d" />
       </value>
     </option>
-    <option name="LESS_VARIABLE" baseAttributes="" />
+    <option name="LESS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="MACRONAME">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -1018,8 +1018,8 @@
         <option name="FOREGROUND" value="61ce3c" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ff6400" />
@@ -1355,7 +1355,7 @@
         <option name="FOREGROUND" value="8da6ce" />
       </value>
     </option>
-    <option name="SASS_VARIABLE" baseAttributes="" />
+    <option name="SASS_VARIABLE" baseAttributes="DEFAULT_INSTANCE_FIELD" />
     <option name="SEARCH_RESULT_ATTRIBUTES">
       <value>
         <option name="BACKGROUND" value="4f4f82" />
@@ -1526,7 +1526,7 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="XML_TAG" baseAttributes="" />
+    <option name="XML_TAG" baseAttributes="DEFAULT_TAG" />
     <option name="XML_TAG_DATA">
       <value>
         <option name="FONT_TYPE" value="1" />
