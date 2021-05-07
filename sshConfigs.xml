@@ -37,7 +37,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lamp-shell.icts.kuleuven.be" id="2862a6e0-9ba9-48ca-ad45-eb1c78298a40" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="fiisummerschool" nameFormat="CUSTOM" username="fiisummerschool">
         <option name="customName" value="fiisummerschool" />
       </sshConfig>
-      <sshConfig host="lamp-shell.icts.kuleuven.be" id="9e0133d1-cf0a-49d7-8538-3969e4bb6359" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="iia" nameFormat="CUSTOM" username="fiiiia">
+      <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lamp-shell.icts.kuleuven.be" id="9e0133d1-cf0a-49d7-8538-3969e4bb6359" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="iia" nameFormat="CUSTOM" username="fiiiia">
         <option name="customName" value="iia" />
       </sshConfig>
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lamp-shell.icts.kuleuven.be" id="4602d2b8-70fd-4f42-a388-1ee732e9e6e6" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="jobalerts" nameFormat="CUSTOM" username="jobalerts">
