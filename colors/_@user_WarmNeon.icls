@@ -3,7 +3,7 @@
     <property name="created">2020-12-21T19:55:06</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-05-12T10:34:15</property>
+    <property name="modified">2021-05-12T15:27:56</property>
     <property name="originalScheme">WarmNeon</property>
   </metaInfo>
   <colors>
@@ -915,8 +915,8 @@
         <option name="FOREGROUND" value="50861a" />
       </value>
     </option>
-    <option name="PHP_PARAMETER" baseAttributes="" />
-    <option name="PHP_VAR" baseAttributes="" />
+    <option name="PHP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
     <option name="PROPERTIES.LINE_COMMENT">
       <value>
         <option name="FOREGROUND" value="e75252" />
