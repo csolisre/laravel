@@ -3,7 +3,7 @@
     <property name="created">2021-01-04T20:01:38</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2020.3.1.0.0</property>
-    <property name="modified">2021-05-20T15:49:38</property>
+    <property name="modified">2021-05-20T16:03:08</property>
     <property name="originalScheme">One Dark Italic</property>
   </metaInfo>
   <colors>
@@ -186,7 +186,7 @@
         <option name="FOREGROUND" value="c678dd" />
       </value>
     </option>
-    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="JS.GLOBAL_VARIABLE" />
+    <option name="COFFEESCRIPT.GLOBAL_VARIABLE" baseAttributes="" />
     <option name="COFFEESCRIPT.HEREGEX_CONTENT">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -921,7 +921,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="HAML_FILTER_CONTENT" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_FILTER_CONTENT" baseAttributes="" />
     <option name="HAML_ID">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -950,7 +950,7 @@
         <option name="FOREGROUND" value="abb2bf" />
       </value>
     </option>
-    <option name="HAML_XHTML" baseAttributes="DEFAULT_TEMPLATE_LANGUAGE_COLOR" />
+    <option name="HAML_XHTML" baseAttributes="" />
     <option name="HTML_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -1589,7 +1589,7 @@
     <option name="PHP_SCRIPTING_BACKGROUND">
       <value />
     </option>
-    <option name="PHP_VAR" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="PHP_VAR" baseAttributes="" />
     <option name="PROPERTIES.INVALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="56b6c2" />
@@ -1768,7 +1768,7 @@
         <option name="BACKGROUND" value="3d424b" />
       </value>
     </option>
-    <option name="REST.INLINE" baseAttributes="DEFAULT_IDENTIFIER" />
+    <option name="REST.INLINE" baseAttributes="" />
     <option name="REST.INTERPRETED">
       <value>
         <option name="BACKGROUND" value="3c4b33" />
@@ -2034,8 +2034,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="SQL_COLUMN" />
-    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="DEFAULT_PREDEFINED_SYMBOL" />
+    <option name="SQL_OUTER_QUERY_COLUMN" baseAttributes="" />
+    <option name="SQL_SYNTHETIC_ENTITY" baseAttributes="" />
     <option name="STATIC_FINAL_FIELD_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="d19a66" />
@@ -2229,7 +2229,7 @@
         <option name="FOREGROUND" value="98c379" />
       </value>
     </option>
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="e5c07b" />
