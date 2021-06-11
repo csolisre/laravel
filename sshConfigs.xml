@@ -43,6 +43,7 @@
       <sshConfig connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="lamp-shell.icts.kuleuven.be" id="4602d2b8-70fd-4f42-a388-1ee732e9e6e6" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" customName="jobalerts" nameFormat="CUSTOM" username="jobalerts">
         <option name="customName" value="jobalerts" />
       </sshConfig>
+      <sshConfig host="lamp-shell.icts.kuleuven.be" id="3781b2d9-33f1-408c-a89b-46ebe4cc0179" keyPath="C:\Users\u0122245\.ssh\carlos-solis" port="22" nameFormat="DESCRIPTIVE" username="fiicrmforms" />
     </configs>
   </component>
 </application>

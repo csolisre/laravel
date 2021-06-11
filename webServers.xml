@@ -2,7 +2,7 @@
   <component name="WebServers">
     <option name="servers">
       <webServer id="b432758e-0b54-4768-9811-53de50f58138" name="toekomstige_studenten">
-        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="b8b7a728-4325-4e70-a2a7-cea647798567" sshConfig="toekomstige_studenten" keyPair="true">
+        <fileTransfer accessType="SFTP" sshConfigId="b8b7a728-4325-4e70-a2a7-cea647798567" sshConfig="toekomstige_studenten">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
@@ -140,6 +140,13 @@
         <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="4602d2b8-70fd-4f42-a388-1ee732e9e6e6" sshConfig="jobalerts" keyPair="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+      <webServer id="aa8880b2-0789-419f-8ad1-0f28fac90dca" name="fiicrmforms">
+        <fileTransfer accessType="SFTP" host="lamp-shell.icts.kuleuven.be" port="22" sshConfigId="3781b2d9-33f1-408c-a89b-46ebe4cc0179" sshConfig="fiicrmforms@lamp-shell.icts.kuleuven.be:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
         </fileTransfer>
       </webServer>
